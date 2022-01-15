@@ -1,0 +1,6 @@
+environs~=8.0.0
+python-dotenv
+asyncpg
+aiogram==2.14.2
+gino
+geopy
