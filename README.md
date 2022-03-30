@@ -5,7 +5,7 @@
 
 You can find bot by this [link](https://t.me/AlertsKpiBot) or by tap a picture above
 
-Now we have **1100+ users** and **6000+ screenshots**
+Now we have **200+ users** and **20+ rooms**
 
 ## Description
 
